@@ -2,8 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jajo21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-![jajo21's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajo21&show_icons=true&theme=synthwave)
+![jajo21's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajo21&show_icons=true&theme=radical)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jajo21&langs_count=10&theme=dark&card_width=450)]([https://github.com/jajo21/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
