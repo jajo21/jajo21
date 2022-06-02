@@ -1,6 +1,6 @@
 ### Hejsan 👋 Johannes här!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jajo21theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jajo21?theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![jajo21's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajo21&show_icons=true&theme=synthwave)
