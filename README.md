@@ -4,7 +4,7 @@
 
 ![jajo21's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajo21&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jajo21&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jajo21&langs_count=10&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jajo21/jajo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
