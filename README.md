@@ -1,5 +1,7 @@
-### Hejsan 👋 Johannes här! Testar lite prylar här nedanför...
+### Hejsan 👋 Johannes här, jag studerar till webbutvecklare i full fart! 
+### Spana in min sida för att veta mer om mig https://jjakobsson.se
 
+### Testar lite prylar här nedanför...
 [![trophy](https://github-profile-trophy.vercel.app/?username=jajo21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![jajo21's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajo21&show_icons=true&theme=dark&count_private=true)
